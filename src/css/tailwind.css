@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+.container{
+    margin-right:2rem 2rem;
+    padding: 2rem 2rem;
+    background-color: rgb(125, 243, 144);
+    background-image: url(/src/img/floresta-amazonica.jpg);
+}
+
+.titulo{
+    margin: 1rem 1rem;
+    padding: 1rem 1rem;
+    text-align: center;
+    color: floralwhite;
+}
+
+.p1{
+    margin: 1rem 1rem;
+    padding: 1rem 1rem;
+    background-color: rgba(247, 239, 239, 0.973);
+    text-align: justify;
+}
+.container-cards{
+  
+    margin:2rem 2rem;
+    padding:2rem 2rem;
+    background-color: rgb(94, 235, 152);  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.card{
+    margin: 1rem 1rem;
+    padding: 1rem 1rem;
+    background-color:rgba(247, 239, 239, 0.973); ;
+}
+
+.card > #foto-card{
+    margin: 1px;
+    padding: 1px;
+    border-radius: 30%;
+
+}
+
+.card > #titulo-card{
+    margin: 5px;
+    padding: 5px;
+    font-style: italic;
+    font-size:x-large
+}
+
+.card > #desc-card{
+    margin: 5px;
+    padding: 5px;
+    text-align: justify;
+   
+}
+
