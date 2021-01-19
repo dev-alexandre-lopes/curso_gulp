@@ -4,7 +4,7 @@
   <a href="https://gulpjs.com">
     <img height="257" width="114" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png">
   </a>
-  <p align="center">Automatizando o Workflow para o Desenvolvimento WEB</p>
+  <p align="center"><strong>Automatizando o Workflow para o Desenvolvimento WEB</strong></p>
 </p>
 
 O **Gulp** é um automatizador de tarefas rápido na sua execução, simples de usar e de fácil aprendizado. Ele usa como base a plataforma node.js para interpretar seu código e requer conhecimento de Javascript para criar suas tarefas.
