@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://gulpjs.com">
-    <img height="257" width="114" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png">
+    <img height="257" width="114" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" alt="logo do Gulp">
   </a>
   <p align="center"><strong>Automatizando o Workflow para o Desenvolvimento WEB</strong></p>
 </p>
