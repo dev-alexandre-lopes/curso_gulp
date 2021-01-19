@@ -1,4 +1,6 @@
-# Curso Gulp: Automatizando o Workflow para o Desenvolvimento WEB
+# Gulp: Automatizando o Workflow para o Desenvolvimento WEB
+
+<image styles = "align-center" src = "https://user-images.githubusercontent.com/64049906/105084958-75401080-5a6d-11eb-9a2c-084c25ad38a8.png"> 
 
 ![Gulp](https://user-images.githubusercontent.com/64049906/105084958-75401080-5a6d-11eb-9a2c-084c25ad38a8.png)
 
