@@ -9,14 +9,15 @@
     margin-right:2rem 2rem;
     padding: 2rem 2rem;
     background-color: rgb(125, 243, 144);
-    background-image: url(/src/img/floresta-amazonica.jpg);
+    background-image: url(/src/img/noticia.jpg);
 }
 
 .titulo{
     margin: 1rem 1rem;
     padding: 1rem 1rem;
+    background-color: darkgrey;
     text-align: center;
-    color: floralwhite;
+    color: rgb(217, 231, 12);
 }
 
 .p1{
