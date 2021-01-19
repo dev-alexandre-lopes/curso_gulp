@@ -17,6 +17,8 @@ Essas tarefas podem ser qualquer coisa que você precisa fazer de forma repetida
 
 [Repositório](https://github.com/gulpjs/gulp) - Repositório Oficial do Gulp
 
+[Documentação](https://gulpjs.com/docs/en/getting-started/quick-start/) - Getting Started com o Gulp
+
 ## Conteúdo do Curso
 
 * Conceitos Importantes;
