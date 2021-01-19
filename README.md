@@ -1,4 +1,4 @@
-# Curso Gulp Automatizando o Workflow para o Desenvolvimento WEB
+# Curso Gulp 
 
 <p align="center">
   <a href="https://gulpjs.com">
